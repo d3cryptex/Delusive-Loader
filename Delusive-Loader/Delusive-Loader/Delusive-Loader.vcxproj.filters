@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Libs">
+      <UniqueIdentifier>{c361bc9a-eb43-4dd8-8208-7dc3a29ca61f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{1c45061b-b9be-44ff-a293-69c0699c8d0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Inject">
+      <UniqueIdentifier>{778420e2-0148-464f-85a5-bccd3f017608}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="UI.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="crypt.cpp">
+      <Filter>Libs</Filter>
+    </ClCompile>
+    <ClCompile Include="Inject.cpp">
+      <Filter>Inject</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Include.hpp" />
+    <ClInclude Include="UI.hpp">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="crypt.h">
+      <Filter>Libs</Filter>
+    </ClInclude>
+    <ClInclude Include="dchar.h">
+      <Filter>Libs</Filter>
+    </ClInclude>
+    <ClInclude Include="Lazyimporter.hpp">
+      <Filter>Libs</Filter>
+    </ClInclude>
+    <ClInclude Include="Security.hpp">
+      <Filter>Libs</Filter>
+    </ClInclude>
+    <ClInclude Include="xorstr.hpp">
+      <Filter>Libs</Filter>
+    </ClInclude>
+    <ClInclude Include="Inject.hpp">
+      <Filter>Inject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
