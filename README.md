@@ -20,18 +20,27 @@ DLL injector and cheat loader manager for Rust (Devblog 236 and newer).
 
 ```
 Delusive-Loader/
-├── Dlls/
-│   └── delusiveDevblog236.dll
-├── Sounds/
-│   └── sound.wav
-├── Include/
-│   └── Include.hpp
-├── Inject.hpp
-├── UI.hpp
-├── Security.hpp
-├── xorstr.hpp
-├── Lazyimporter.hpp
-├── main.cpp
+├── Delusive-Loader/
+│   ├── Delusive-Loader.vcxproj
+│   ├── Delusive-Loader.vcxproj.filters
+│   ├── Delusive-Loader.vcxproj.user
+│   ├── Include.hpp
+│   ├── Inject.cpp
+│   ├── Inject.hpp
+│   ├── Lazyimporter.hpp
+│   ├── Main.cpp
+│   ├── Security.hpp
+│   ├── UI.cpp
+│   ├── UI.hpp
+│   ├── crypt.cpp
+│   ├── crypt.h
+│   ├── dchar.h
+│   ├── xorstr.hpp
+│   └── x64/
+│       └── Release/
+│           ├── Delusive-Loader.exe
+│           └── Delusive-Loader.pdb
+└── Delusive-Loader.sln
 ```
 
 ---
