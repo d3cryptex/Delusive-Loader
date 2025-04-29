@@ -36,12 +36,9 @@ Delusive-Loader/
 
 ---
 
-## 📥 DLL Download
+## 📥 Custom Links
 
-- DLL is auto-downloaded from:
-  ```
-  https://raw.githubusercontent.com/6275SeNpai/Delusive-Dlls/main/Devblog236.dll
-  ```
+- You need to change some link like DLL download and pastebin.You can also you other file cloud instead of pastebin.
 
 ---
 
@@ -68,12 +65,6 @@ Delusive-Loader/
 - Psapi.lib, winmm.lib, etc.
 - [xorstr](https://github.com/JustasMasiulis/xorstr)
 - [LazyImporter](https://github.com/JustasMasiulis/lazy_importer)
-
----
-
-## 🚫 Legal Notice
-
-This project is for educational/research use only. Do not use in protected or online games—it may violate game Terms of Service.
 
 ---
 
