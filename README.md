@@ -65,15 +65,15 @@ Delusive-Loader/
 - Psapi.lib, winmm.lib, etc.
 - [xorstr](https://github.com/JustasMasiulis/xorstr)
 - [LazyImporter](https://github.com/JustasMasiulis/lazy_importer)
-  
----
-
-🧪 Made with ❤️ to help you **learn by building**.
-
-By **d3cryptex**
 
 ---
 
 ## 📜 License
 
 MIT License © 2025
+
+---
+
+Made with ❤️ to help you **learn by building**.
+
+By **d3cryptex**
