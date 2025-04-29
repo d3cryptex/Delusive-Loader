@@ -1,6 +1,6 @@
 # Delusive-Loader
 
-> DLL injector and cheat loader manager for Rust (Devblog 236 and newer).
+DLL injector and cheat loader manager for Rust (Devblog 236 and newer).
 
 ---
 
