@@ -47,7 +47,7 @@ Delusive-Loader/
 
 ## 📥 Custom Links
 
-- You need to change some link like DLL download and pastebin.You can also you other file cloud instead of pastebin.
+- You need to change some links like DLL download and pastebin.You can also use other file sharing instead of pastebin.
 
 ---
 
