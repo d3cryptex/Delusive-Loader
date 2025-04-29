@@ -77,9 +77,11 @@ Delusive-Loader/
 
 ---
 
-## 📜 License
+## 📬 Contact
 
-MIT License © 2025
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/6275)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/d3cryptex)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danilobocuk@gmail.com)
 
 ---
 
